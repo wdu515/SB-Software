@@ -1,0 +1,12 @@
+E:\Users\1\Documents\Visual Studio 2008\Projects\WpfApplication1\WpfApplication1\bin\x64\Release\WpfApplication1.exe
+E:\Users\1\Documents\Visual Studio 2008\Projects\WpfApplication1\WpfApplication1\bin\x64\Release\WpfApplication1.pdb
+E:\Users\1\Documents\Visual Studio 2008\Projects\WpfApplication1\WpfApplication1\obj\x64\Release\ResolveAssemblyReference.cache
+E:\Users\1\Documents\Visual Studio 2008\Projects\WpfApplication1\WpfApplication1\obj\x64\Release\Window1.baml
+E:\Users\1\Documents\Visual Studio 2008\Projects\WpfApplication1\WpfApplication1\obj\x64\Release\Window1.g.cs
+E:\Users\1\Documents\Visual Studio 2008\Projects\WpfApplication1\WpfApplication1\obj\x64\Release\App.g.cs
+E:\Users\1\Documents\Visual Studio 2008\Projects\WpfApplication1\WpfApplication1\obj\x64\Release\WpfApplication1_MarkupCompile.cache
+E:\Users\1\Documents\Visual Studio 2008\Projects\WpfApplication1\WpfApplication1\obj\x64\Release\WpfApplication1.g.resources
+E:\Users\1\Documents\Visual Studio 2008\Projects\WpfApplication1\WpfApplication1\obj\x64\Release\WpfApplication1.Properties.Resources.resources
+E:\Users\1\Documents\Visual Studio 2008\Projects\WpfApplication1\WpfApplication1\obj\x64\Release\WpfApplication1.csproj.GenerateResource.Cache
+E:\Users\1\Documents\Visual Studio 2008\Projects\WpfApplication1\WpfApplication1\obj\x64\Release\WpfApplication1.exe
+E:\Users\1\Documents\Visual Studio 2008\Projects\WpfApplication1\WpfApplication1\obj\x64\Release\WpfApplication1.pdb
